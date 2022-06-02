@@ -83,8 +83,8 @@ return require('packer').startup(function(use)
   }
 
   -- commenting
-  use "JoosepAlviste/nvim-ts-context-commentstring"
-
+  -- use "JoosepAlviste/nvim-ts-context-commentstring"
+use 'tpope/vim-commentary'
 
   -- Editor messages
 use {
