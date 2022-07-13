@@ -1,1 +1,1 @@
-echo 'names'
+echo 'name'
